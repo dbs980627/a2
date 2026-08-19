@@ -1,0 +1,2 @@
+cd "C:\python\yjc-codyssey\윤정찬 a2"
+& ".\.venv\Scripts\python.exe" ".\여행_플래너.py" -date 2026-08-19
